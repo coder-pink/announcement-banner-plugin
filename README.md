@@ -1,5 +1,7 @@
 # Announcement Banner Plugin
 
+![diagram-export-11-18-2024-4_25_16-PM](https://github.com/user-attachments/assets/1e9e3097-b18e-4406-bde5-73f57bf0e748)
+
 **Announcement Banner Plugin** is a simple, customizable WordPress plugin that allows you to add a banner to the top of your website to promote deals, announcements, or any other important information. It allows the user to modify the banner text and button link directly from the WordPress admin settings page.
 
 ## Features
